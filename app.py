@@ -16,7 +16,7 @@ st.set_page_config(
 # ---------------------------
 # Header Image
 # ---------------------------
-st.image("hotel.jpg", use_container_width=True)
+# st.image("hotel.jpg", use_container_width=True)
 
 # ---------------------------
 # Title
